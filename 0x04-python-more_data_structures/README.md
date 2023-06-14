@@ -91,13 +91,8 @@
         * You are not allowed to import any module
         * You have to use `map`
         * Your file should be max 3 lines
-- 12-switch.py
-    * Complete the source code in order to switch value of `a` and `b`
-        * You can find the source code (here)[https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA]
-        * Your code should be inserted where the comment is (line 4)
-        * Your program should be exactly 5 lines long
-- 13-is_palindrome.c, lists.h
-    * Write a function in C that checks if a singly linked list is a palindrome.
-        * Prototype: int is_palindrome(listint_t **head);
-        * Return: 0 if it is not a palindrome, 1 if it is a palindrome
-        * An empty list is considered a palindrome
+- 12-roman_to_int.py
+    * Create a function `def roman_to_int(roman_string):` that converts a [Roman numeral](https://intranet.alxswe.com/rltoken/oSuwqUrL0BL_hi4VqVvs_g) to an integer.
+        * You can assume the number will be between 1 to 3999.
+        * `def roman_to_int(roman_string)` must return an integer
+        * If the `roman_string` is not a string or `None`, return 0
