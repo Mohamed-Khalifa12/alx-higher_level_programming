@@ -30,4 +30,21 @@
 ## Files
 - 0-rectangle.py
     * Write an empty class `Rectangle` that defines a rectangle
-
+- 1-rectangle.py
+    * create getter and setter for width and height with error detection.
+- 2-rectangle.py
+    * Calculate the area and perimeter of the rectangle.
+- 3-rectangle.py
+    * draw the rectangle with `#` symbol depending on the width and height.
+- 4-rectangle.py
+    * create a string representation of the rectangle to be able to recreate a new instance by using `eval()`
+- 5-rectangle.py
+    * delete an instance.
+- 6-rectangle.py
+    * return the number of instances of the class.
+- 7-rectangle.py
+    * change the symbol that draw the rectangle with.
+- 8-rectangle.py
+    * comparing 2 rectangles and return the largest.
+- 9-rectangle.py
+    * create a square with the rectangle instructor.
